@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 230949460,
+  "asset_count": 3147,
+  "file_count": 4,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:b2ffceecb595bb5d3beabc7b4574fc4f86545d86bce3bd00312c73f27a66d75a"
+    },
+    {
+      "url": "_v1/assets-00001.json",
+      "hash": "SHA256:39e64498cec055c3cc302013894251bad208e3e91a51a313a25c48f8d8749978"
+    },
+    {
+      "url": "_v1/assets-00002.json",
+      "hash": "SHA256:7ef898c737a013376994ae100881c4358d04d29a838b5ff0ed1a6134b7b0c74c"
+    },
+    {
+      "url": "_v1/assets-00003.json",
+      "hash": "SHA256:dc8ef5195b76cbbc6262d4206ba1e1e2f198dc08e8391b3e2a59b9f184c15efd"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "LowPoly",
+      "uuids": [
+        "621bd2eb-192a-4e3b-992b-290937191bba"
+      ],
+      "simple_name": "LowPoly"
+    }
+  ]
+}

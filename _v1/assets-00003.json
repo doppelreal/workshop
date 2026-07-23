@@ -1,0 +1,4283 @@
+{
+  "asset_count": 147,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Wall_Stone_End_3x3m_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_3x3m_a.webp",
+        "hash": "SHA256:59c8fdaac427a2ee0de09d17b5205b2c09fc4c91150c00e5758d5cdc9f0d6120"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0000007152557373,
+              0.31634679436683655,
+              1.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_3x3m_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_3x3m_b.webp",
+        "hash": "SHA256:ed2e54f0dbe004b03aeb3c52726a11430cd4eeccb585a87ce0575aa41c84b3f4"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0000908374786377,
+              0.32835137844085693,
+              1.500000238418579
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_3x3m_C",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_3x3m_c.webp",
+        "hash": "SHA256:fab8c935f840fe12b51ace86b9e763770454af0bed56651a736430ac63ede189"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.27118223905563354,
+              1.500000238418579
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_L_3x3m_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_l_3x3m_a.webp",
+        "hash": "SHA256:bad3d16263196fa4332c2b4f69cd67d4acf19abce3e202909de7ebfd554b4c00"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.999994993209839,
+              0.3289615511894226,
+              2.999201536178589
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_L_3x3m_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_l_3x3m_b.webp",
+        "hash": "SHA256:db4543971cdb59977aab1a4889631afbb4c82f6c9acba5cbd4aa0d706d017d72"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0000038146972656,
+              0.3283514976501465,
+              3.000000238418579
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_L_3x3m_C",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_l_3x3m_c.webp",
+        "hash": "SHA256:9abcd0465ba9b06924d56ccfe908b3d154cf8a4212c432b97c20b6131f0d9396"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.27118605375289917,
+              3.000000238418579
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_R_3x3m_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_r_3x3m_a.webp",
+        "hash": "SHA256:ef986dc619a8627a2e2320568e77c18da2a32bfcbc65d3e030f834f88abf4533"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.001520872116089,
+              0.3687380254268646,
+              2.9999899864196777
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_R_3x3m_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_r_3x3m_b.webp",
+        "hash": "SHA256:95500df5ca8311ae03566d35960548bcdea5a34bdcb4186c931e2609644a16cd"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.3283514976501465,
+              3.000004768371582
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_End_R_3x3m_C",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_end_r_3x3m_c.webp",
+        "hash": "SHA256:5e2ed86c39006403a2dbe50ddb3a423d25baf635a6f109b18a7ac01117b6bce8"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.2788116931915283,
+              3.000004768371582
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_Medieval",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_medieval.webp",
+        "hash": "SHA256:4f6678abae8b0db6cfcec0c0a19bbffd1182e4ab65c13b82e8446a37d8acfff2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              15.74999713897705,
+              2.3887529373168945,
+              8.494868278503418
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_Window_3x3m_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_window_3x3m_a.webp",
+        "hash": "SHA256:09e8650802a25a07971630cb3439cc2c1ec0374ddb1ea91b269381d5c74abab8"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0000061988830566,
+              0.3349356949329376,
+              3.004617929458618
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_Window_3x3m_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_window_3x3m_b.webp",
+        "hash": "SHA256:accba65f69fad7c9118b6963af6454f87ed5e8d401dd9c822f778f3ec454a04a"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.32835137844085693,
+              2.9975059032440186
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Stone_Window_3x3m_C",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_stone_window_3x3m_c.webp",
+        "hash": "SHA256:ba30d752bc7073be5a511f7ba18a7ad2b56ca50a4d654476a6b6d39727758147"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.27881360054016113,
+              2.9975059032440186
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Thick_Corner_Egypt",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_thick_corner_egypt.webp",
+        "hash": "SHA256:6b9005037bcc22eeb030632b5739b69872e525e191309ff02848dbfba3440dca"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.424087524414062,
+              10.2459716796875,
+              9.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Thick_Damaged",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_thick_damaged.webp",
+        "hash": "SHA256:b3e1c49e581ea71f42fa14b57b3d3cd60218bc89a66c4e65f7fc98eb9c607a33"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.0,
+              4.000000476837158,
+              9.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Thick_Egypt",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_thick_egypt.webp",
+        "hash": "SHA256:bd5d42d19ad32650982c4f30d21665044bb90575dd889e74a489ac644fabfa36"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.0,
+              4.000000476837158,
+              9.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_12m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_12m_empire.webp",
+        "hash": "SHA256:c6d05c7aa86dc3327db028000401e5d184c2aacfa8777d1ad2ed8df2c1780e58"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              12.129995346069336,
+              0.15250883996486664,
+              2.500922203063965
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_3m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_3m_empire.webp",
+        "hash": "SHA256:d215af1074836bd22150c981bbba0d2d99fde4539ff015e3220ba9a75f87d6ee"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.1169865131378174,
+              0.15168161690235138,
+              0.6824893355369568
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_6m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_6m_empire.webp",
+        "hash": "SHA256:ba65dd8993c72092013198b897cb9f11c182e77ec8acdbe55eb120a4a72d9484"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              6.117249965667725,
+              0.15423037111759186,
+              1.298647403717041
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_9m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_9m_empire.webp",
+        "hash": "SHA256:55c1bf84ffff9a90d70e3b82583ea0230eb946ab80b06ef25e49ff79b62e618d"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.125699996948242,
+              0.1593381017446518,
+              1.9002004861831665
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_Symbol_12m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_symbol_12m_empire.webp",
+        "hash": "SHA256:00b1142f100bce6eeb77640ccd7594519fcab343b4a890fdb266055cd8135b97"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              12.129995346069336,
+              0.1747061014175415,
+              2.500922203063965
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_Symbol_3m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_symbol_3m_empire.webp",
+        "hash": "SHA256:67e6940a3768c42013ecc8965f891ce6123f42c2113fbb105707508c8c6a97a2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.1169865131378174,
+              0.14991091191768646,
+              0.6824893355369568
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_Symbol_6m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_symbol_6m_empire.webp",
+        "hash": "SHA256:6e095f0a51a11e6f006059a6cedf348a69ab33089c6c602de93c09f9d92505cf"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              6.117249965667725,
+              0.15017585456371307,
+              1.298647403717041
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Vertical_Symbol_9m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_vertical_symbol_9m_empire.webp",
+        "hash": "SHA256:1f1510f20584a338360a703a06259d7f9d579d6be06873b85c4e84fcb110e78f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.125699996948242,
+              0.15222515165805817,
+              1.9002004861831665
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Window_L_3x3m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_window_l_3x3m_empire.webp",
+        "hash": "SHA256:dd8e8d59f4fdbd717d9307a5dd134c617148377254dade04a09f5279b30c5aa5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.4300251603126526,
+              3.000000476837158
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Window_R_3x3m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_window_r_3x3m_empire.webp",
+        "hash": "SHA256:d7bdb31c4c0a400d25461c7ac247b332499c884c8630edb8a8c568fe1b50992c"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.4300251603126526,
+              3.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Door_Horizontal_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_door_horizontal_3x3m.webp",
+        "hash": "SHA256:bfb3aefb2463f9ff97dd5be5c072d740a0ce1f35808b933bbaeb3364d68a79db"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.3280903697013855,
+              3.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Door_Vertical_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_door_vertical_3x3m.webp",
+        "hash": "SHA256:98d7709ed848988b09edaeab74e79084cc535c4e865f1acb2eaa082b7e65c352"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.999999523162842,
+              0.3122695982456207,
+              3.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Horizontal_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_horizontal_3x3m.webp",
+        "hash": "SHA256:b86614c0f5070b379049a958877c306beffb1c344bd6607fc6705221f52ce779"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.32797133922576904,
+              3.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Horizontal_Corner",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_horizontal_corner.webp",
+        "hash": "SHA256:f4649d222cd9fcf0254faa933ca352707e3e2d7b0ddaaa20a5ce309f5a442045"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5000231266021729,
+              0.6559885740280151,
+              3.005594253540039
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Horizontal_End_3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_horizontal_end_3m.webp",
+        "hash": "SHA256:6f2964eeb1c1aaf533e7f5d0c85a75bbd97236f997f85c47ca9dd577a088b681"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.3234730064868927,
+              1.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Horizontal_End_L_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_horizontal_end_l_3x3m.webp",
+        "hash": "SHA256:d817d0077b62a98e224c81fde7efe549a896e7872fb55fef9e990ddb15ec8674"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.999999761581421,
+              0.32797133922576904,
+              2.999999761581421
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Horizontal_End_R_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_horizontal_end_r_3x3m.webp",
+        "hash": "SHA256:9174f685c6572b5da6d49da0106e18a0d4fa02f63340084fa9aa9faf5fafceff"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.3279685974121094,
+              3.0000171661376953
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Japan",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_japan.webp",
+        "hash": "SHA256:e5abf4345ce77eb338c67032557d9d9d8010d7f7ce1673e32d805f769ad8db7e"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.999999046325684,
+              0.30000075697898865,
+              2.0299999713897705
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Medieval",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_medieval.webp",
+        "hash": "SHA256:770268ad9a1c158848b6b48115035ca27360f73102c8132d412cab66bf080178"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0285754203796387,
+              1.4229629039764404,
+              3.732243776321411
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Vertical_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_vertical_3x3m.webp",
+        "hash": "SHA256:6bac6b3a6f2290858d46e8f10c4efea3bc9b4be53b8bb7e5fce048018e6db8fb"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.31627777218818665,
+              3.0000009536743164
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Vertical_Corner",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_vertical_corner.webp",
+        "hash": "SHA256:b7c643d93562da6aaa77475cdc6994503eb5d18c7cb6d2a82a4f9be1cbcd33a9"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2001475989818573,
+              0.20012113451957703,
+              3.0014095306396484
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Vertical_End_3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_vertical_end_3m.webp",
+        "hash": "SHA256:f1b2d31e02f31162ebef692100f788fb1170f6c1f03409672e0afb0b1638ca60"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0000085830688477,
+              0.3149954080581665,
+              1.497302770614624
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Vertical_End_L_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_vertical_end_l_3x3m.webp",
+        "hash": "SHA256:7311e13e9a0f1b3a4b02dd8b73bf0ba1f2941293267ce236d390a8eec13fef61"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.31627774238586426,
+              3.0000007152557373
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Vertical_End_R_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_vertical_end_r_3x3m.webp",
+        "hash": "SHA256:8ba3a5c9d0ad3af33302f7768dfda1ab9ea487beb7d9728f677edb9ca431dae7"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.999999761581421,
+              0.31627777218818665,
+              3.0000007152557373
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Window_Horizontal_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_window_horizontal_3x3m.webp",
+        "hash": "SHA256:862dbe3075dec38d182c680727f0ac61d705f6d8c99339740ef372324fbc0fe0"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.9999890327453613,
+              0.32780978083610535,
+              3.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Wood_Window_Vertical_3x3m",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wall_wood_window_vertical_3x3m.webp",
+        "hash": "SHA256:53277373f959391336474832f8243933326e822ad941ad4654d61080f363d85f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.999999523162842,
+              0.3162776827812195,
+              3.0024938583374023
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wallbox",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wallbox.webp",
+        "hash": "SHA256:2fd4fee87a36f15b6413079583c22a7a3d59749d091d02a2e01c747b651f09c3"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.19999998807907104,
+              0.099999338388443,
+              0.25
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wallbox_Hose",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wallbox_hose.webp",
+        "hash": "SHA256:d0df3a58ebcdc3641778385db098be053676c14ffad4493713bbd4904add339d"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.39207398891448975,
+              0.17267930507659912,
+              1.2857545614242554
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "War_Banner_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/war_banner_empire.webp",
+        "hash": "SHA256:8dbbc3fc813dad5a6e340600eb5f1f540622820e712626815f5b9bb2f4cd14cb"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0581773519515991,
+              0.16103366017341614,
+              2.4325976371765137
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wash_Basin",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wash_basin.webp",
+        "hash": "SHA256:e50554b336dbd4bcffbac60d923b85cdb6ff374b0215336aeaadbcdc28ab74f2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6000001430511475,
+              0.5000001192092896,
+              0.28774672746658325
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Washing_Machine",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/washing_machine.webp",
+        "hash": "SHA256:37bb47af34e7b7e9a4915a9bf05cf5cf51dd5a686a0ce62864a529f10b44f0f8"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6000652313232422,
+              0.6400002241134644,
+              0.9200001955032349
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Washing_Machine_Apocalypse",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/washing_machine_apocalypse.webp",
+        "hash": "SHA256:30551e7507517208fbea7b0165ca412322b8588b49307c11bdeccadf6b509916"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6735620498657227,
+              0.6321054100990295,
+              0.9455312490463257
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Washing_Machine_Broken",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/washing_machine_broken.webp",
+        "hash": "SHA256:8eb917f9d5ffe661d342fe16ced0e4a839ce3efb52defbb355db82a83fe9b27c"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6947987079620361,
+              1.0359890460968018,
+              0.9455312490463257
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Bag",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_bag.webp",
+        "hash": "SHA256:60f09e295d52846ced7206f1e45d53dc1a651eea1d21a4fe92b255a53904bfb6"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.1303423047065735,
+              0.2584359645843506,
+              0.05656985938549042
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Bag_Spilled",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_bag_spilled.webp",
+        "hash": "SHA256:f2f194a7c056f725c51e018908e098740fb689378c21272eac644a5b3fda4bde"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.4834442138671875,
+              0.7649059891700745,
+              0.05656985938549042
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Bottle",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_bottle.webp",
+        "hash": "SHA256:457d8fa10b3ab84689a984b6072c7ac4aed1432a9e6afc6cf665ceffa93f95c9"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.1600002944469452,
+              0.1600002944469452,
+              0.4743478298187256
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Bottle_Crushed",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_bottle_crushed.webp",
+        "hash": "SHA256:4a900965fe9dc820bbe1dfcce3a20583c7c9fcd160cff9d16fa8717bb33b5154"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.4941743016242981,
+              0.20171573758125305,
+              0.13758328557014465
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Bottles_Pack",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_bottles_pack.webp",
+        "hash": "SHA256:7b7747297f76d426eabab4f8b0eec654cc693b2b9335bb19c4a0c772eceffbef"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.46224504709243774,
+              0.167552188038826,
+              0.4743616580963135
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Cooling_Bottle",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_cooling_bottle.webp",
+        "hash": "SHA256:7bd1ba7e196c43b5452549c523771712418cbfedd3d27a678111faf487a3a5b8"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.30362799763679504,
+              0.30362799763679504,
+              0.5330314636230469
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Ride",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_ride.webp",
+        "hash": "SHA256:366589a9c749ee50c3dbcbac7860fcc57333cf2bd14f0540d1a0504c56134ace"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              27.5,
+              29.0,
+              10.7823486328125
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Ride_Cart",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_ride_cart.webp",
+        "hash": "SHA256:230377047a8ee08dd5edcbd29938627bc610aef934bf141321c48dccf49e1067"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.32777738571167,
+              1.700000286102295,
+              1.0996276140213013
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Station_Big",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_station_big.webp",
+        "hash": "SHA256:8673dbc362b354596f753cbfdbba912c0a9c9963ad83b47df95012d3a6b29d6f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              28.961795806884766,
+              24.401268005371094,
+              35.76165008544922
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Station_Large_Ground",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_station_large_ground.webp",
+        "hash": "SHA256:1ab0810613ec405550999f2140d7312e328b45a6772ebedc7abc2dbe44b437c1"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              28.9617919921875,
+              23.908618927001953,
+              22.32012939453125
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Station_Small",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_station_small.webp",
+        "hash": "SHA256:0c955f84261bb19422fd3f6814a016f015f640ea6e963f764a6545994c0db56a"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.724607467651367,
+              19.13107681274414,
+              26.40668487548828
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Station_Small_Ground",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_station_small_ground.webp",
+        "hash": "SHA256:fd79fc2e71d7e0bfc0df6fbebf7cb4779d5cacc65e02cbf09125e6b7fbb1f60d"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.724609375,
+              19.13107681274414,
+              12.965165138244629
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Tower_Big",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_tower_big.webp",
+        "hash": "SHA256:4308405c9aa071633f6cdbaf042bf6f93e7866664ecce64da6a14cd26fa2b954"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              12.240837097167969,
+              10.628215789794922,
+              34.66975402832031
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Tower_Medium",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_tower_medium.webp",
+        "hash": "SHA256:676ded539387b660275180700e1f4aaabda4225fabad158535f44a85fe09aadf"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.183863639831543,
+              9.828393936157227,
+              15.82650089263916
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Tower_Western",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_tower_western.webp",
+        "hash": "SHA256:caa94155e6024a492906a2a6e110d9b23abc9b988ce16900f00a26b822e01179"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.058784008026123,
+              5.200841426849365,
+              7.688873291015625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Trough_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_trough_empire.webp",
+        "hash": "SHA256:5649c02ee3340cfa6e3be8abe260fc3029dabf69f24e541589e166d297ae760c"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.996553897857666,
+              6.0,
+              2.999757766723633
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Trough_End_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_trough_end_empire.webp",
+        "hash": "SHA256:85a63471ac8879076ab8c2f7070dd7a5fc83dcd6f5164778c56d60704fcbcbe7"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.996553659439087,
+              3.0,
+              0.5942270159721375
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Trough_Middle_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_trough_middle_empire.webp",
+        "hash": "SHA256:6a09a93f3d8c024de615b6b1ee2cd7b81627fa7663d1c757a6617940613f1cf4"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.996553659439087,
+              3.0,
+              0.5942273139953613
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Trough_Start_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_trough_start_empire.webp",
+        "hash": "SHA256:a504bfd2c8d543dc2bc5cd3bb002e66eacfbf47a5c950aa16d21d18c6d2b1844"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.996553659439087,
+              3.00052809715271,
+              2.999757766723633
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water_Wave_Circle",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/water_wave_circle.webp",
+        "hash": "SHA256:4434093c06b0c32740e5756a51b5d6d2fb41cc36f0019cb8e3ab66e27495bf86"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.602748692035675,
+              0.586256742477417,
+              0.051457300782203674
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Weapon_Stand_Spear_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/weapon_stand_spear_empire.webp",
+        "hash": "SHA256:756a94aefa34d14ed4200e7648f52df5832419b9c4a122b99f50a02ddde24f4e"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0956573486328125,
+              0.8800002336502075,
+              2.6836113929748535
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Weapon_Stand_Spear_Empty_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/weapon_stand_spear_empty_empire.webp",
+        "hash": "SHA256:fba0599a25d90c56c1440a58ed2e6e271f31fee241d4f590f223deaa6c990b83"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0956573486328125,
+              0.8800002336502075,
+              1.4233691692352295
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Weapon_Stand_Sword_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/weapon_stand_sword_empire.webp",
+        "hash": "SHA256:e5e4591d9848c5b950ab0719abd5235a652111f65185cb82f97e3738af7a5917"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.185887336730957,
+              0.8800002932548523,
+              1.4670217037200928
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Weapon_Stand_Sword_Empty_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/weapon_stand_sword_empty_empire.webp",
+        "hash": "SHA256:5d3496c527897eb3c44360dfae842d151d54ef074a35ff5a6827852b35c8184b"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.185887336730957,
+              0.8800002932548523,
+              1.4233691692352295
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wedding_Arch",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wedding_arch.webp",
+        "hash": "SHA256:8b156dae0ad3cdc3a3034863d28e5ec02b3984c82cc3e293d94b74a138450fd5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.7686822414398193,
+              0.3300000727176666,
+              2.5600426197052
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wedding_Arch_Balloons",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wedding_arch_balloons.webp",
+        "hash": "SHA256:e6272e67e33524b3dddabebf07a9796612cc19d192b68512cc9429ab36b625a6"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.2630205154418945,
+              0.520852267742157,
+              2.750638961791992
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wedding_Arch_Big",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wedding_arch_big.webp",
+        "hash": "SHA256:23d7cba505d0655f37f1eb7b0af24906bcedc5e827189183567edf3138d78a88"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.209484815597534,
+              0.3300000727176666,
+              2.5600426197052
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wedding_Arch_Big_Balloons",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wedding_arch_big_balloons.webp",
+        "hash": "SHA256:ef84f77174c67995c7f739017edac2a7009f9ce99b99c6333bc98e618bb239b5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.6507997512817383,
+              0.520852267742157,
+              2.750638961791992
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wedding_Arch_Flowers",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wedding_arch_flowers.webp",
+        "hash": "SHA256:90d482e92ea43a29dbdcc8776c0d3d4dc076ccee594911df6a52aae504eea155"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.1115057468414307,
+              0.851837158203125,
+              2.8733928203582764
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Well",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/well.webp",
+        "hash": "SHA256:9ec74a7bcafb26b10a6d4df4ee91c2afd0241e8b28cb6376f3c382d4dc97f91b"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9713473320007324,
+              2.0415303707122803,
+              2.1617486476898193
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheat_Flour",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheat_flour.webp",
+        "hash": "SHA256:01f8b041490e8a621223ddbcf089d6a7ad06a36ac8c94ce8ff9e0e9a3d6a2041"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5773303508758545,
+              0.4911777973175049,
+              0.6935818195343018
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheat_Plant",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheat_plant.webp",
+        "hash": "SHA256:4ee6a188d9f1d6c7ca6c0ef4786325aa7c0ba10ccee8c6a016bd59e1c8633eda"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7741641998291016,
+              0.35762953758239746,
+              1.9087417125701904
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheel_Wood",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheel_wood.webp",
+        "hash": "SHA256:5bee9ab768de461265d4ed7fd143791dfe10dd03d114c60edf56f4785d91b377"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1777762174606323,
+              1.1777763366699219,
+              0.1728576421737671
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheelbarrow",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheelbarrow.webp",
+        "hash": "SHA256:8c6ad1a78145fdaefd84ac2bbe483ea89b73d555e0a24a720eb32733f3718b41"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6203767657279968,
+              1.4443947076797485,
+              0.6004976034164429
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheelchair",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheelchair.webp",
+        "hash": "SHA256:5f00988d3ff79757a4bb58fe25aaf107804bc33fc856ad3c9e89c98825b82cfa"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7040238976478577,
+              1.2788598537445068,
+              1.0662059783935547
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wheels",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wheels.webp",
+        "hash": "SHA256:447245598775e96590f8ef76731f13868da76b07779411293cb944a2673feee3"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6978855729103088,
+              1.6724224090576172,
+              0.538789689540863
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Windmill_Apocalypse_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/windmill_apocalypse_a.webp",
+        "hash": "SHA256:bf99a54224a7f984c402080a5f68bb71f9d2d32de9776140f4d06e327bdfb295"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.331697463989258,
+              15.290552139282227,
+              4.18851375579834
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Windmill_Apocalypse_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/windmill_apocalypse_b.webp",
+        "hash": "SHA256:049f264f72c7dd92f2966c3addab86841c988c3e2c48bc1cc2ee6265ea8c53ac"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.149506092071533,
+              5.576838493347168,
+              15.916662216186523
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Windmill_Western_Apocalypse_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/windmill_western_apocalypse_a.webp",
+        "hash": "SHA256:75befe7b6ce79db9a35c518b85cbf05b1aaadd047d36430a0c4323446e89ac3f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.4645628929138184,
+              3.1345620155334473,
+              10.153243064880371
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Windmill_Western_Apocalypse_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/windmill_western_apocalypse_b.webp",
+        "hash": "SHA256:d1ff3639cb063f5e5e188128b7d54beda198f201dfd851c5c158cd17a0ebdc16"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0966382026672363,
+              7.766327857971191,
+              7.043661117553711
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Window_Stone",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/window_stone.webp",
+        "hash": "SHA256:7139e12781a254bab3bfac76cd8641675d618dc611bedacbc311e942212dfbc9"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9999640583992004,
+              0.2999986410140991,
+              1.3006107807159424
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Window_Wood",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/window_wood.webp",
+        "hash": "SHA256:f8af7ef55624bdf1518a689c6c322552a2254bdb1479e937a21c029d7f1af0d8"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9999971389770508,
+              0.29998278617858887,
+              1.3002861738204956
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wine_Bottle_Red",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wine_bottle_red.webp",
+        "hash": "SHA256:b903667098da3ff3615de85a3edf0a309e5b760cfff8c60fc87b9f9c413ec666"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08472134172916412,
+              0.08472134172916412,
+              0.33167749643325806
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wine_Bottle_White",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wine_bottle_white.webp",
+        "hash": "SHA256:661f5a0344b95d84424b73de54d888742380024ed0b95671f8ef6c637e5512e7"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08472134172916412,
+              0.08472134172916412,
+              0.33167749643325806
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wire_Cutters",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wire_cutters.webp",
+        "hash": "SHA256:7a497416eedf2aad0c43776f69dc739f0b6fcb4fb6a74c6ed7a1e1573fc73e38"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.12908637523651123,
+              0.19102898240089417,
+              0.013117168098688126
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wolf",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wolf.webp",
+        "hash": "SHA256:e84e8b9230843e32172f384bac1b787adbfc67f55db4c89d8de7d361ecf31e3b"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.35122108459472656,
+              1.7457520961761475,
+              1.098247766494751
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual.webp",
+        "hash": "SHA256:7de55611a820e07541a1877ec723516e95a4f0dcc57f8c621f12e535138938ea"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5327368378639221,
+              0.3517247438430786,
+              1.8406341075897217
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual_Dead_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual_dead_a.webp",
+        "hash": "SHA256:7948292853e52efe006156fac6d134eeaa2ee42b0bd69543ca5380a4ba8fc5df"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.824730634689331,
+              2.0583624839782715,
+              0.3209892511367798
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual_Dead_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual_dead_b.webp",
+        "hash": "SHA256:037ed716eb0e50aa23bf0408b5e4c667845fde538ca21cbb790d64738919ee8d"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8128944635391235,
+              2.074507713317871,
+              0.3209892511367798
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual_Pants",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual_pants.webp",
+        "hash": "SHA256:b2dda2bbf37680654c3f48dd124f02ecfc432d4259feb74fead4fd05c7f73adf"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5327387452125549,
+              0.40191206336021423,
+              1.8553876876831055
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual_Pants_Dead_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual_pants_dead_a.webp",
+        "hash": "SHA256:1e419b4c89af14d659649152a8db593dffb11a75298fc69dd3bf3b3a7ad66ad5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8361172080039978,
+              1.4145927429199219,
+              0.7086008191108704
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Casual_Pants_Dead_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_casual_pants_dead_b.webp",
+        "hash": "SHA256:a2b3020c7a36380093fdcab3e67f9e5485b2f8a0e60bb86285d13ad559363422"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8361172080039978,
+              0.8868192434310913,
+              0.7086008787155151
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Cheerleader",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_cheerleader.webp",
+        "hash": "SHA256:9a215db05cb4a610845e0bc7560bfa02c7b363571670c0980efc757689149b96"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7891959547996521,
+              0.38869839906692505,
+              1.850574016571045
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Dress",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_dress.webp",
+        "hash": "SHA256:19b10c7b3f4026e99dfd8ae0e98e2525f4cd673cab18b38bd2250e3d6384f55b"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5642222762107849,
+              0.4798162579536438,
+              1.8351190090179443
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Egypt_Worker",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_egypt_worker.webp",
+        "hash": "SHA256:be45c8c5d7dd208bf5ed5f70018452c390078a8b5f0e7872c35b7cff52164900"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.3674015998840332,
+              1.8299484252929688
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_empire.webp",
+        "hash": "SHA256:14340108cb83f09c6b24d8dad71c0518ed11166a42d3400b7e4fd036043e0466"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5509122610092163,
+              0.40687066316604614,
+              1.8237093687057495
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Farm",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_farm.webp",
+        "hash": "SHA256:77e823abe9a242c198336cb80dc3c5f320ca21e7d0d6d1ab444541dc05013a3f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5327387452125549,
+              0.3804112672805786,
+              1.8823894262313843
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Geisha",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_geisha.webp",
+        "hash": "SHA256:294de9a59472d7fce5734c74f2c049c5595394513b4e6fec4ed181e876382baf"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5642222762107849,
+              0.3509000241756439,
+              1.8350495100021362
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Ginger",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_ginger.webp",
+        "hash": "SHA256:00f0677ab23a84d831a1e10cd72427b1cd023c7d1512dd1522dc1a95b795f6c5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.36167168617248535,
+              1.845618724822998
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Hazard",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_hazard.webp",
+        "hash": "SHA256:be386d6ce59e3bcf84ccfb5dd28c50283798b53e9c025c1b29745f9f81372cbc"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5504984259605408,
+              0.3772115409374237,
+              1.8153494596481323
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Lady",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_lady.webp",
+        "hash": "SHA256:571897eaab84474d5a3e55c88ccb089ab2041f6df4141261e2fa2066dee027cc"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5642222762107849,
+              0.3569446802139282,
+              1.8452858924865723
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Lady_Rival",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_lady_rival.webp",
+        "hash": "SHA256:03318e30e1334be71762e9b2c2486fda314db84e422a232d948091f3941da785"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5642222762107849,
+              0.32393407821655273,
+              1.8350495100021362
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Metalhead",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_metalhead.webp",
+        "hash": "SHA256:ac372d87f541f290cfe3c5d1e58f8bfe2480a52f14532bf1d93d4de6a3d15df5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "author": "polyperfect",
+        "copyright": "polyperfect",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.539064884185791,
+              0.40191206336021423,
+              1.8553876876831055
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Nanny",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_nanny.webp",
+        "hash": "SHA256:d1376229678a08c862678a2e79243197578f589efd269e3bd8f078284e68e788"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5405065417289734,
+              0.32768139243125916,
+              1.8350495100021362
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Native",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_native.webp",
+        "hash": "SHA256:93b950fb65216a3d5e96341b30f004f662e69fc8e737e468369ffd774865e1f2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.428615927696228,
+              1.8465529680252075
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Pirate_Hat",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_pirate_hat.webp",
+        "hash": "SHA256:5fee23d8ce883d84b3a130c33e38cfa75c29ee6c4505719a187c17040862c024"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5750277638435364,
+              0.4968640208244324,
+              1.9415780305862427
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Pirate_Scarf",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_pirate_scarf.webp",
+        "hash": "SHA256:72a2b61d447872f89c91434ac1309b72ff2f6c07ff1b28f4399ec72adae6b30e"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5992213487625122,
+              0.4744129776954651,
+              1.8465602397918701
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Princess",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_princess.webp",
+        "hash": "SHA256:b282d8179c7c44aa3e00a565c10f07ec9d7f5cf7302552e29778c4ae981c1f68"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "author": "polyperfect",
+        "copyright": "polyperfect",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5494273900985718,
+              0.400265634059906,
+              1.8645329475402832
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Scifi_Goggles",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_scifi_goggles.webp",
+        "hash": "SHA256:b90754952933e8244ce00978b4911181f22bde787a771a47bcc287c85da722e2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5703019499778748,
+              0.33079856634140015,
+              1.868312954902649
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Scifi_Prosthetic_Leg",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_scifi_prosthetic_leg.webp",
+        "hash": "SHA256:300b88003b5a352b15fc9c6930affdc23322ceabfc2638d5f5c0754e2a353e98"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5327387452125549,
+              0.3499361276626587,
+              1.8447344303131104
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Ski",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_ski.webp",
+        "hash": "SHA256:d5d169a0f8bb3c33b3d0a2371728bf3646e64342bd6b72990e617fac5f61944a"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5584394931793213,
+              0.3556249737739563,
+              1.8488667011260986
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Suit",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_suit.webp",
+        "hash": "SHA256:459b86b956bdfad35839a2a02798b05278f81846123ba663b67c589cbb1945a7"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5502090454101562,
+              0.37035059928894043,
+              1.8555254936218262
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Swimming",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_swimming.webp",
+        "hash": "SHA256:1417eb1f0e810772a89ecbc9201eb174f2d442c4f15b4a1bef2bc641d7371cc5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.2852714955806732,
+              1.8414310216903687
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Swimming_Dead_A",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_swimming_dead_a.webp",
+        "hash": "SHA256:f90b28e7a38c95bd94c683a24ed9f6e444057bebd806cf5a232ac284d9c4d650"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8711748123168945,
+              2.390148162841797,
+              0.29624831676483154
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Swimming_Dead_B",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_swimming_dead_b.webp",
+        "hash": "SHA256:75e9bc01298af860ef29af8fd176f799ee1ace67808a121f833887c89a3a9aa4"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6125348806381226,
+              1.88731050491333,
+              0.2839331030845642
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Swimming_Guard",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_swimming_guard.webp",
+        "hash": "SHA256:af9290369f9e11963987fc3bc1e2de08c208951da6e63ca51a110d1101416097"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.37082988023757935,
+              1.838285207748413
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Tattoo",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_tattoo.webp",
+        "hash": "SHA256:dcab169a64bd234133334b33e6933535a375fa307fbdbd8932a948f773017811"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5327386856079102,
+              0.3860395848751068,
+              1.8634884357452393
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Viking",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_viking.webp",
+        "hash": "SHA256:82ab549758e45ecde96fb0a13ba1525b4dd718282feeedaa305c2299b8f3e994"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5365787148475647,
+              0.32662108540534973,
+              1.845618724822998
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Wedding",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_wedding.webp",
+        "hash": "SHA256:9bb9c4a2eb847abd7369c4969e108fc8cf5b793cedb691bb164c30261a410c45"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "author": "polyperfect",
+        "copyright": "polyperfect",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5287147164344788,
+              0.330880343914032,
+              1.8645329475402832
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Winter",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_winter.webp",
+        "hash": "SHA256:44b0475caa090638330ee2e187eaf2fa88e57b0894af6ceece01c5304ff873f3"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5584394931793213,
+              0.37835878133773804,
+              1.9289578199386597
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Winter_Coat",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_winter_coat.webp",
+        "hash": "SHA256:ad4cea59ea27cf50beee57313eee5c167923aa5c4434d2ce415eaea8db464e60"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5385511517524719,
+              0.3218693733215332,
+              1.872782588005066
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Woman_Zombie",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/woman_zombie.webp",
+        "hash": "SHA256:5efab5940b9b160bb1bed2ed27209055bce514858abcdc798ffcdd0e020bb42f"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.539419949054718,
+              0.7509435415267944,
+              1.826274037361145
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wooden_Fence_Wall_3x3m_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wooden_fence_wall_3x3m_empire.webp",
+        "hash": "SHA256:0666ba7a8185c8359f5fe4cf0bc5fcbdb98c4ab0e1e199fa90ab484d69fd4fe5"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0,
+              0.09995387494564056,
+              3.000000238418579
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wooden_Fence_Wall_3x3m_Ivy_Blossom_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wooden_fence_wall_3x3m_ivy_blossom_empire.webp",
+        "hash": "SHA256:68cd975e4ebe00ef06711a87f9be965da8d99353132941f7d1b3fb37e0b261a2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0034375190734863,
+              0.24684582650661469,
+              3.00071120262146
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wooden_Fence_Wall_3x3m_Ivy_Empire",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wooden_fence_wall_3x3m_ivy_empire.webp",
+        "hash": "SHA256:9665de4ff9af137b40dcd6ff1b6daa76a923a261b46ef2748d7e22d93a8a0ba2"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.0034375190734863,
+              0.24563494324684143,
+              3.00071120262146
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wool",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wool.webp",
+        "hash": "SHA256:9bb7d109a465c0c24f097d36b4bf29b0ceae51d85c7ebe4ce080c769cd770306"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.18556857109069824,
+              0.19340579211711884,
+              0.19864235818386078
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Beach",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_beach.webp",
+        "hash": "SHA256:c58daa4e4e3bb14af5b0bb80662158d818d3dd76f0990fb668b0638eb4adeb08"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.60891342163086,
+              19.638744354248047,
+              6.496242523193359
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_City",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_city.webp",
+        "hash": "SHA256:b3fa3d38df65582f5e88feb3c17c0da2112c510ec2dfcfdf16a6436a78a06307"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              20.000001907348633,
+              20.0,
+              4.500002384185791
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Desert",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_desert.webp",
+        "hash": "SHA256:31b76803d77c57d5721695e829ccd5f56f3a92d4c2f25ab2539181c4d688abc7"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.999996185302734,
+              20.0,
+              6.122745990753174
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Field",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_field.webp",
+        "hash": "SHA256:446138669349ab0148e49b034368ad0bf19c35e87dfc94fdf84a535b48748d49"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.681888580322266,
+              19.68189239501953,
+              6.8244452476501465
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Forest",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_forest.webp",
+        "hash": "SHA256:5f97a5d4852186f68c6e4cbcbc48c8f6a3157674b14516fca42369f4d26a4ffc"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              20.225181579589844,
+              20.276750564575195,
+              11.798256874084473
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Ice",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_ice.webp",
+        "hash": "SHA256:4bf13b158cff3215c6e8884ba76648a04854a572fe22df3e5f1ff82799f5c2be"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              20.0,
+              20.000003814697266,
+              6.459458351135254
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Island",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_island.webp",
+        "hash": "SHA256:6fe91dc2b9566724d68afb8c24f1f23f70e361ecc733bcc056c2d01e3490fec1"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              20.0,
+              20.000015258789062,
+              5.927861213684082
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Oasis",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_oasis.webp",
+        "hash": "SHA256:31e406ed777962e9fec95daafee1541f88e3ee076d9b876ea19e2eb8816275f3"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.999996185302734,
+              20.000001907348633,
+              6.122746467590332
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_River",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_river.webp",
+        "hash": "SHA256:7d067f126a239b9cf73277f0c52ef621ee30aeb9e251699240e215947da31468"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.762359619140625,
+              20.0,
+              5.925078392028809
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "World_Sea",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/world_sea.webp",
+        "hash": "SHA256:83d02ba4638ca77c0ee98deb88ffb71cbc5f259aa4d12918ffe7ecfe116e6cbb"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.68189239501953,
+              19.68189239501953,
+              6.564415454864502
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wrench",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/wrench.webp",
+        "hash": "SHA256:9f49cce68b43f206f0eb51bf32918f16e8b095dd825e8c628da5c0738468456e"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.05982361361384392,
+              0.24634866416454315,
+              0.01604587957262993
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Zulu_Iqukwane",
+      "id_type": "OBJECT",
+      "files": [
+        "LowPolyLibrary.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "LowPolyLibrary_thumbnails/Object/zulu_iqukwane.webp",
+        "hash": "SHA256:641520796c271e0ea3423517c03ba8ceee879eef0b768dde24aec1c7cbb7de5a"
+      },
+      "meta": {
+        "catalog_id": "621bd2eb-192a-4e3b-992b-290937191bba",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.160893440246582,
+              4.90078067779541,
+              2.891040563583374
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "LowPolyLibrary.blend",
+      "size_in_bytes": 57737365,
+      "hash": "SHA256:d37a3b325aec556f8ee3f494c7d17a1534da4d4593ee65e54910480892a32fad",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
